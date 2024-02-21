@@ -27,7 +27,7 @@
     "@typescript-eslint/parser": "6.7.4",
     "async": "3.2.4",
     "authenticator": "1.1.5",
-    "axios": "1.5.1",
+    "axios": "1.6.0",
     "axios-retry": "3.8.0",
     "chai": "4.3.10",
     "chalk": "4.1.2",
